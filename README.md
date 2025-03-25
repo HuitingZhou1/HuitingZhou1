@@ -2,7 +2,10 @@
 
 📫 How to reach me: hzhou53@illinois.edu
 
+💻I’m skilled in developing efficient full-stack applications using Python, Django, Java, JavaScript, Redis, MongoDB, MySQL, and real-time technologies (WebSockets), with experience in analytics integration and seamless deployment (Hostinger).
+
 💻 I’m passionate about AI, Machine Learning, and Software Development. I have experience building AI models for accident detection, developing Android map applications, and improving subscription software.
+
 
 🚀 Feel free to explore my GitHub repositories – you can find all the projects mentioned above right here!
 

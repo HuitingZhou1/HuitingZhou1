@@ -11,7 +11,7 @@
 
 🎓 Currently, I’m a Computer Engineering student, eager to explore new opportunities.
 
-🌱 Always learning, particularly about how AI can revolutionize financial systems, and looking to collaborate on innovative tech and fintech projects!
+🌱 Always learning, particularly about AI, and looking to collaborate on innovative tech and fintech projects!
 
 
 

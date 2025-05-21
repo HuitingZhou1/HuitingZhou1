@@ -9,7 +9,7 @@
 
 🚀 Feel free to explore my GitHub repositories – you can find all the projects mentioned above right here!
 
-🎓 Currently, I’m a Computer Engineering student transferring from UIUC to Vanderbilt University, eager to explore new opportunities.
+🎓 Currently, I’m a Computer Engineering student, eager to explore new opportunities.
 
 🌱 Always learning, particularly about how AI can revolutionize financial systems, and looking to collaborate on innovative tech and fintech projects!
 
